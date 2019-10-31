@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Photo Oct 30, 5 33 58 PM.png-e0a311a53f74a0cca939e82549cd2d0a.stex"
+path="res://.import/greentile.png-166c2bd80094ea2585ebd0cd93b22a05.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Photo Oct 30, 5 33 58 PM.png"
-dest_files=[ "res://.import/Photo Oct 30, 5 33 58 PM.png-e0a311a53f74a0cca939e82549cd2d0a.stex" ]
+source_file="res://Assets/greentile.png"
+dest_files=[ "res://.import/greentile.png-166c2bd80094ea2585ebd0cd93b22a05.stex" ]
 
 [params]
 
